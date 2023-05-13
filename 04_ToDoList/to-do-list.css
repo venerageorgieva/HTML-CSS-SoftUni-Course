@@ -1,0 +1,21 @@
+main{
+    display:flex;
+    flex-direction: column;
+}
+.my-list{
+  background-color: #f7f381;
+  padding: 8px24px;
+  width: 500px;
+  font-size: 30px;
+  border: 1pxsolid#f7f381;
+  box-shadow: 0010px2px#333333;
+  justify-content: center;
+}
+ ol{
+     margin:12px;
+ }
+
+ p{
+     display: flex;
+     justify-content: center;
+ }
